@@ -12,7 +12,7 @@ shell backdoor website
 ## :octocat: Contact
 - Website : https://evsystemsite.wordpress.com/
 - Facebook : https://web.facebook.com/eko.vegeance.1
-- Twitter : @ekovegeance7  main developer of wordINDO
+- Twitter : https://twitter.com/ekovegeance7
 - Telegram : https://t.me/evsystemsite
 - Google+ : https://plus.google.com/117233958552972040322?hl=id
 
